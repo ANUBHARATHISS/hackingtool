@@ -273,6 +273,11 @@ Enter the options and continue.
 
 - If need open other ports you can edit the docker-compose.yml file
 - Volumes are mounted in the container to persist data and can share files between the host and the container
+### OUTPUT:
+
+<img width="1919" height="908" alt="Screenshot 2025-09-26 105318" src="https://github.com/user-attachments/assets/5475ab50-8988-4887-a56f-8655b4a30ac7" />
+
+<img width="1919" height="1019" alt="Screenshot 2025-09-26 105050" src="https://github.com/user-attachments/assets/65fdac60-affc-4821-8eb3-7b57b6e2a7d0" />
 
 
 #### Thanks to original Author of the tools used in hackingtool
